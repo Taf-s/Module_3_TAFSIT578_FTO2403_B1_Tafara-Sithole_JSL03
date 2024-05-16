@@ -12,6 +12,7 @@ The purpose of the project was to decide which code snippet was Declarative and 
 
 ## Loom Video Link
 
+https://www.loom.com/share/dfdff6120fa541d4be7139dab7d82f02?sid=d4241af5-0234-4ca0-8dad-6ef69183efb9
 
 
 # Presentation Talking Points
