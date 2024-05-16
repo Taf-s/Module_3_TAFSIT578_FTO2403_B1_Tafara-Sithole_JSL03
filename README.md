@@ -4,13 +4,15 @@ This is the readme file for Declarative of Imperative
 
 ## Description
 
-The purpose of the project was to decide which code snippet was Declarative and which was Imperative. Provide justification on why we chose a certain approach for the examples given.
+The purpose of the project was to decide which code snippet was Declarative and which was Imperative and to provide justification on why we chose a certain approach for the examples given.
 
 ## Technologies Used
 
 \*Loom
 
 ## Loom Video Link
+
+
 
 # Presentation Talking Points
 
